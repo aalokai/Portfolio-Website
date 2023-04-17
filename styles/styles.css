@@ -964,7 +964,7 @@ section {
   }
 }
 
-.sub-btn {
+/* .sub-btn {
   display: flex;
   align-self: flex-start;
 }
@@ -1026,7 +1026,7 @@ section {
   background-color: white;
   color: var(--color-secondary);
   transition: all 0.4s ease-out;
-}
+} */
 
 
 
